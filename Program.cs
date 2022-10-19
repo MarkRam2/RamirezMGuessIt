@@ -1,6 +1,6 @@
 ﻿Console.Clear();
 // mark ramirez 
-// 9/19/2022
+// 10/19/2022
 // mini challenge #8
 
 Console.WriteLine("to day you are going to play a guessing game try to guess the correct number");
