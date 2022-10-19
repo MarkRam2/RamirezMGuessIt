@@ -1,0 +1,15 @@
+C:\Users\Mark\Desktop\codeclass\Guess it\obj\Debug\net6.0\Guess it.csproj.AssemblyReference.cache
+C:\Users\Mark\Desktop\codeclass\Guess it\obj\Debug\net6.0\Guess it.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\Desktop\codeclass\Guess it\obj\Debug\net6.0\Guess it.AssemblyInfoInputs.cache
+C:\Users\Mark\Desktop\codeclass\Guess it\obj\Debug\net6.0\Guess it.AssemblyInfo.cs
+C:\Users\Mark\Desktop\codeclass\Guess it\obj\Debug\net6.0\Guess it.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\codeclass\Guess it\bin\Debug\net6.0\Guess it.exe
+C:\Users\Mark\Desktop\codeclass\Guess it\bin\Debug\net6.0\Guess it.deps.json
+C:\Users\Mark\Desktop\codeclass\Guess it\bin\Debug\net6.0\Guess it.runtimeconfig.json
+C:\Users\Mark\Desktop\codeclass\Guess it\bin\Debug\net6.0\Guess it.dll
+C:\Users\Mark\Desktop\codeclass\Guess it\bin\Debug\net6.0\Guess it.pdb
+C:\Users\Mark\Desktop\codeclass\Guess it\obj\Debug\net6.0\Guess it.dll
+C:\Users\Mark\Desktop\codeclass\Guess it\obj\Debug\net6.0\refint\Guess it.dll
+C:\Users\Mark\Desktop\codeclass\Guess it\obj\Debug\net6.0\Guess it.pdb
+C:\Users\Mark\Desktop\codeclass\Guess it\obj\Debug\net6.0\Guess it.genruntimeconfig.cache
+C:\Users\Mark\Desktop\codeclass\Guess it\obj\Debug\net6.0\ref\Guess it.dll
