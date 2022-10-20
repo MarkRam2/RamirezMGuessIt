@@ -1,7 +1,8 @@
 ﻿Console.Clear();
 // mark ramirez 
-// 10/19/2022
+// 10/20/2022
 // mini challenge #8
+// you will choose a difficulty and then you i will try to guess a randomly selected number from what ever difficulty you selected
 
 Console.WriteLine("to day you are going to play a guessing game try to guess the correct number");
 Console.WriteLine("choose easy medium or hard");
