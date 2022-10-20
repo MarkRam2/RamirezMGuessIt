@@ -11,7 +11,7 @@ bool playing = true;
 string no;
 long WrongI = 0;
 bool Number;
-while (playing == true)
+while(playing == true)
 {
     bool Wguess = true;
     bool wNumber = true;
@@ -190,10 +190,21 @@ userinput = Console.ReadLine();
             Console.WriteLine($"you guessed wrong {T} time");
             break;
     }
-    Console.WriteLine("Would you like to play again? yes or no");
-    no = Console.ReadLine();
-    if (no == "no")
-    {
-        playing = false;
-    }
+    bool Yessir = true;
+Console.WriteLine("want to play again");
+string responce = Console.ReadLine();
+while(Yessir == true)
+{
+responce.ToLower();
+if(responce == "yes" ){
+Yessir = false;
+playing = true;
+}else if(responce == "no" ){
+Yessir = false;
+playing = false;
+}else{
+Console.WriteLine($"so like i need a yes or no not this \"{responce}\" ");
+responce = Console.ReadLine();
+}
+}
 }
